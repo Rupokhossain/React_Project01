@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "title": "How to Build a Full Website Using React",
+        "slug": "build-website-using-react",
+        "category_id": 1,
+        "author": "Sakib Hasan",
+        "date": "2025-10-25",
+        "image": " https://i.ibb.co.com/tTxmftJD/7454574545-440x440.webp",
+        "short_description": "Learn step-by-step how to create a professional website using React, including routing and responsive design.",
+        "long_description": "React is one of the most powerful libraries for building modern web applications. In this guide, we’ll create a full-featured website using React, Tailwind CSS, and React Router. You’ll learn how to set up routing, manage state, and make your design fully responsive for all devices. Additionally, we’ll cover how to deploy your site online using Vercel or Netlify. This tutorial is beginner-friendly but still covers advanced tips for better performance and SEO.",
+        "tags": [
+            "React",
+            "Web Development",
+            "Frontend",
+            "Tailwind",
+            "Tutorial"
+        ],
+        "views": 2543,
+        "read_time": "8 min"
+    },
+    {
+        "id": 2,
+        "title": "Top 5 Freelancing Skills in 2025",
+        "slug": "top-5-freelancing-skills-2025",
+        "category_id": 3,
+        "author": "Sakib Hasan",
+        "date": "2025-10-22",
+        "image": "https://i.ibb.co.com/Lhx5qsbp/664564563-440x440.webp",
+        "short_description": "Freelancing is booming in 2025. Here are the most in-demand skills to learn for success in freelancing.",
+        "long_description": "The freelancing industry is rapidly expanding, and 2025 will be a golden year for remote professionals. Among the top trending skills are web development, graphic design, video editing, and AI-powered automation. Learning these skills not only increases your earning potential but also gives you the flexibility to work from anywhere. In this article, we’ll explore how to get started, what platforms to use, and how to attract international clients.",
+        "tags": [
+            "Freelancing",
+            "Career",
+            "Skills",
+            "Remote Work",
+            "Income"
+        ],
+        "views": 3891,
+        "read_time": "6 min"
+    },
+    {
+        "id": 3,
+        "title": "Why Graphic Design is Important for Your Brand",
+        "slug": "importance-of-graphic-design",
+        "category_id": 2,
+        "author": "Sakib Hasan",
+        "date": "2025-10-20",
+        "image": "https://i.ibb.co.com/zVTDrPvj/arafed-skateboard-with-colorful-design-440x440.webp",
+        "short_description": "Discover how graphic design helps build your brand identity and attract customers.",
+        "long_description": "Graphic design plays a crucial role in brand communication. A well-designed logo, color palette, and visual layout help customers recognize and trust your business. From social media posts to website banners, every design element creates an emotional connection with your audience. This post covers the basics of branding, design principles, and tools like Photoshop and Figma to help you craft a professional identity.",
+        "tags": [
+            "Graphic Design",
+            "Branding",
+            "Marketing",
+            "Design Tools"
+        ],
+        "views": 1765,
+        "read_time": "5 min"
+    },
+    {
+        "id": 4,
+        "title": "Latest Tech Updates: AI Tools Changing the World",
+        "slug": "latest-ai-tools-2025",
+        "category_id": 4,
+        "author": "Sakib Hasan",
+        "date": "2025-10-18",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "AI is reshaping industries. Let's look at the newest tools that are transforming productivity.",
+        "long_description": "Artificial Intelligence (AI) is evolving faster than ever. In 2025, new AI tools are helping professionals automate tasks, create content, and analyze data more efficiently. Tools like ChatGPT, Midjourney, and Runway are revolutionizing how we design, write, and plan. This article explores the top AI tools, their use cases, and how businesses can integrate them for maximum impact.",
+        "tags": [
+            "AI",
+            "Technology",
+            "Innovation",
+            "Tools",
+            "Productivity"
+        ],
+        "views": 5120,
+        "read_time": "7 min"
+    },
+    {
+        "id": 5,
+        "title": "Mastering JavaScript in 2025: Tips for Beginners",
+        "slug": "mastering-javascript-2025",
+        "category_id": 5,
+        "author": "Sakib Hasan",
+        "date": "2025-10-15",
+        "image": " https://i.ibb.co.com/ymHYbgR8/chapeau-tricolore-eyes-freedom-440x440.webp",
+        "short_description": "If you’re learning JavaScript, this guide covers essential concepts and best practices for modern development.",
+        "long_description": "JavaScript continues to dominate web development. In this complete guide, you’ll learn about ES6+ features, DOM manipulation, and the importance of asynchronous programming. We’ll also explore modern frameworks like React and Vue, as well as debugging techniques to improve your workflow. By the end, you’ll be ready to build dynamic, high-performance web applications confidently.",
+        "tags": [
+            "JavaScript",
+            "Programming",
+            "Web Development",
+            "Frontend"
+        ],
+        "views": 3429,
+        "read_time": "9 min"
+    },
+    {
+        "id": 6,
+        "title": "10 Best VS Code Extensions for Web Developers",
+        "slug": "best-vscode-extensions-2025",
+        "category_id": 1,
+        "author": "Sakib Hasan",
+        "date": "2025-10-12",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "Supercharge your coding experience with these must-have VS Code extensions for web development.",
+        "long_description": "Visual Studio Code (VS Code) is one of the most popular code editors for web developers. In this article, we’ll explore 10 essential extensions that can improve your productivity and workflow. From Prettier for auto-formatting to ESLint for clean code, these tools make your daily coding easier. Whether you’re a beginner or a pro, these plugins will help you code faster and smarter.",
+        "tags": [
+            "VS Code",
+            "Tools",
+            "Web Development",
+            "Productivity"
+        ],
+        "views": 2109,
+        "read_time": "6 min"
+    },
+    {
+        "id": 7,
+        "title": "How to Make Money with Blogging in 2025",
+        "slug": "make-money-with-blogging-2025",
+        "category_id": 3,
+        "author": "Sakib Hasan",
+        "date": "2025-10-10",
+        "image": "https://i.ibb.co.com/tTxmftJD/7454574545-440x440.webp",
+        "short_description": "Learn how to start a blog and monetize it using ads, affiliate links, and digital products.",
+        "long_description": "Blogging is still one of the best ways to earn passive income online. In this post, we’ll go through how to choose a niche, grow an audience, and monetize your blog through Google AdSense, sponsorships, and affiliate marketing. We’ll also talk about SEO strategies and social media growth to get more readers and higher earnings.",
+        "tags": [
+            "Blogging",
+            "Freelancing",
+            "SEO",
+            "Earnings"
+        ],
+        "views": 2987,
+        "read_time": "8 min"
+    },
+    {
+        "id": 8,
+        "title": "How to Optimize Images for Faster Websites",
+        "slug": "optimize-images-for-speed",
+        "category_id": 1,
+        "author": "Sakib Hasan",
+        "date": "2025-10-09",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "Learn simple tricks to optimize images for web performance without losing quality.",
+        "long_description": "Page speed is crucial for user experience and SEO. Large images slow down your site, so optimizing them is key. In this guide, we’ll cover compression tools like TinyPNG, choosing the right format (WebP vs JPG), and implementing lazy loading in React. You’ll see how small image improvements can significantly increase website performance.",
+        "tags": [
+            "Optimization",
+            "Images",
+            "Performance",
+            "Web Development"
+        ],
+        "views": 1563,
+        "read_time": "5 min"
+    },
+    {
+        "id": 9,
+        "title": "UI vs UX Design: What’s the Difference?",
+        "slug": "ui-vs-ux-design-difference",
+        "category_id": 2,
+        "author": "Sakib Hasan",
+        "date": "2025-10-08",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "Understand the difference between UI and UX design and why both are important.",
+        "long_description": "Many beginners confuse UI and UX design, but they are not the same. UI (User Interface) focuses on visuals and layout, while UX (User Experience) is about usability and user flow. In this blog, we’ll explain the main differences, why both are necessary, and how they work together to create a great product experience.",
+        "tags": [
+            "UI",
+            "UX",
+            "Design",
+            "User Experience"
+        ],
+        "views": 2845,
+        "read_time": "6 min"
+    },
+    {
+        "id": 10,
+        "title": "5 Common Mistakes New Developers Make",
+        "slug": "common-mistakes-new-developers",
+        "category_id": 5,
+        "author": "Sakib Hasan",
+        "date": "2025-10-05",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "Avoid these common beginner mistakes to grow faster as a web developer.",
+        "long_description": "When starting your coding journey, it's easy to make mistakes that slow down your progress. Some of the most common errors include ignoring documentation, not practicing enough, and copying code without understanding. In this post, we’ll talk about how to overcome these habits and become a more confident developer.",
+        "tags": [
+            "Programming",
+            "Beginners",
+            "Coding Tips",
+            "Learning"
+        ],
+        "views": 3320,
+        "read_time": "5 min"
+    },
+    {
+        "id": 11,
+        "title": "Tailwind CSS vs Bootstrap: Which One is Better?",
+        "slug": "tailwind-vs-bootstrap-2025",
+        "category_id": 1,
+        "author": "Sakib Hasan",
+        "date": "2025-10-02",
+        "image": "https://i.ibb.co.com/tTxmftJD/7454574545-440x440.webp",
+        "short_description": "Compare Tailwind CSS and Bootstrap to find out which framework suits your project best.",
+        "long_description": "Tailwind CSS and Bootstrap are two of the most used frameworks in frontend development. While Bootstrap provides pre-styled components, Tailwind offers more customization and flexibility. This article compares both in terms of performance, learning curve, and scalability, helping you choose the best one for your project.",
+        "tags": [
+            "Tailwind",
+            "Bootstrap",
+            "Frontend",
+            "CSS"
+        ],
+        "views": 2411,
+        "read_time": "7 min"
+    },
+    {
+        "id": 12,
+        "title": "Top 10 Free Resources to Learn Coding",
+        "slug": "free-resources-to-learn-coding",
+        "category_id": 5,
+        "author": "Sakib Hasan",
+        "date": "2025-09-28",
+        "image": "https://i.ibb.co.com/Lhx5qsbp/664564563-440x440.webp",
+        "short_description": "Here are 10 free websites where you can learn coding from have to is arti be scratch.",
+        "long_description": "Learning to code doesn’t have to be expensive. In this article, we list the top free platforms such as freeCodeCamp, W3Schools, MDN, and The Odin Project. These platforms cover everything from HTML and CSS to React and Node.js. With consistency, you can build a career without spending a single dollar.",
+        "tags": [
+            "Learning",
+            "Coding",
+            "Free Resources",
+            "Education"
+        ],
+        "views": 5190,
+        "read_time": "9 min"
+    },
+    {
+        "id": 13,
+        "title": "How to Improve Website SEO in 2025",
+        "slug": "improve-website-seo-2025",
+        "category_id": 4,
+        "author": "Sakib Hasan",
+        "date": "2025-09-25",
+        "image": "https://i.ibb.co.com/tTxmftJD/7454574545-440x440.webp",
+        "short_description": "Boost your website ranking with these powerful and up-to-date SEO tips.",
+        "long_description": "SEO strategies evolve every year, and 2025 is no different. This blog explains how to optimize your website for Google using Core Web Vitals, backlinks, and structured data. You’ll also learn about AI-generated content and voice search optimization. Following these practices will increase your organic traffic significantly.",
+        "tags": [
+            "SEO",
+            "Marketing",
+            "Web Development",
+            "Optimization"
+        ],
+        "views": 4387,
+        "read_time": "8 min"
+    },
+    {
+        "id": 14,
+        "title": "How to Create an E-commerce Website with React",
+        "slug": "create-ecommerce-website-react",
+        "category_id": 1,
+        "author": "Sakib Hasan",
+        "date": "2025-09-20",
+        "image": "https://i.ibb.co.com/8gPPKbKc/motorcycle-safety-helmet-300x300.webp",
+        "short_description": "Step-by-step guide to building an e-commerce website using React and Firebase.",
+        "long_description": "Creating an e-commerce website is a great project to learn React. In this tutorial, we’ll use React, Context API, and Firebase to handle authentication and data storage. You’ll also learn to create a cart system, product pages, and payment integration. By the end, you’ll have a fully functional online store.",
+        "tags": [
+            "React",
+            "E-commerce",
+            "Firebase",
+            "Web Development"
+        ],
+        "views": 4022,
+        "read_time": "10 min"
+    },
+    {
+        "id": 15,
+        "title": "The Future of AI in Web Development",
+        "slug": "future-of-ai-in-web-development",
+        "category_id": 4,
+        "author": "Sakib Hasan",
+        "date": "2025-09-18",
+        "image": "https://i.ibb.co.com/tTxmftJD/7454574545-440x440.webp",
+        "short_description": "AI is transforming web development. Discover how it’s shaping the future of coding.",
+        "long_description": "Artificial Intelligence is no longer a distant future — it’s already transforming how websites are built and maintained. From AI code assistants to automated testing, developers are now more efficient than ever. This article explores the role of AI in frontend, backend, and UX design, and what to expect in the coming years.",
+        "tags": [
+            "AI",
+            "Technology",
+            "Web Development",
+            "Innovation"
+        ],
+        "views": 5643,
+        "read_time": "9 min"
+    }
+]

@@ -1,12 +1,45 @@
-import React from 'react'
-import Hero from './HomeComponents/Hero'
+
+import { useEffect, useState } from 'react';
+import Blogs from './HomeComponents/Blogs'
+import Category from './HomeComponents/Category'
+import CategoryBlog from './HomeComponents/CategoryBlog'
 
 const Home = () => {
-  return (
-    <div>
-        <h1>This is home page</h1>
 
-        <Hero/>
+  const [blogs, setBlogs] = useState([]);
+  const[categories, setCategories] = useState([]);
+  const [categoryId, setCategoryId] = useState();
+
+  useEffect(() => {
+    fetch("blogs.json")
+    .then(res => res.json())
+    .then(data => setBlogs(data))
+  },[])
+
+
+  
+    useEffect(() => {
+    fetch("category.json")
+    .then(res => res.json())
+    .then(data => setCategories(data))
+  },[])
+
+  const handleCategoryId = (id) => {
+    setCategoryId(id);
+  }
+
+  return (
+    <div className='container mx-auto px-24 pt-12'>
+
+      <div className='grid grid-cols-12 gap-4'>
+        <div className='col-span-8 border'>
+          <Blogs/>
+        </div>
+        <div className='col-span-4 border  border-gray-200 px-4 py-4 rounded-md'>
+          <Category categories={categories} handleCategoryId={handleCategoryId}/>
+          <CategoryBlog blogs ={blogs} categoryId={categoryId}/>
+        </div>
+      </div>
     </div>
   )
 }

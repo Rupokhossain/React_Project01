@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development",
+    "slug": "web-development"
+  },
+  {
+    "id": 2,
+    "name": "Graphic Design",
+    "slug": "graphic-design"
+  },
+  {
+    "id": 3,
+    "name": "Freelancing Tips",
+    "slug": "freelancing-tips"
+  },
+  {
+    "id": 4,
+    "name": "Technology News",
+    "slug": "technology-news"
+  },
+  {
+    "id": 5,
+    "name": "Programming Tutorials",
+    "slug": "programming-tutorials"
+  }
+]
