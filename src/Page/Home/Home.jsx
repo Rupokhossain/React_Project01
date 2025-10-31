@@ -32,13 +32,13 @@ const Home = () => {
   }
 
   return (
-    <div className='container mx-auto px-24 pt-12'>
+    <div className='container mx-auto px-12 pt-12'>
 
       <div className='grid grid-cols-12 gap-4'>
-        <div className='col-span-8'>
+        <div className='col-span-8 lg:order-1 order-2'>
           <Blogs blogs={blogs}/>
         </div>
-        <div className='col-span-4 border-gray-200 px-4 py-4 rounded-md'>
+        <div className='col-span-4 lg:order-2 order-1 border-gray-200 px-4 py-4 rounded-md'>
           <Category categories={categories} handleCategoryId={handleCategoryId} activeCategory={activeCategory}/>
           <CategoryBlog blogs ={blogs} categoryId={categoryId}/>
         </div>

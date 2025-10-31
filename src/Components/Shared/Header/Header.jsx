@@ -11,8 +11,8 @@ const Header = () => {
 
 
   return (
-    <div className="shadow-xl">
-      <div className="flex items-center justify-between container mx-auto py-4 px-6 lg:px-24">
+    <div className="shadow-lg sticky top-0 bg-white z-50">
+      <div className="flex items-center justify-between container mx-auto py-4 px-6 lg:px-12">
         <img src={logo} className="w-32 md:w-36" alt="" />
 
         <div className="hidden md:flex items-center justify-center gap-12">
